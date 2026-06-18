@@ -8,7 +8,7 @@
 
 ## 🌍 About Me
 
-I'm a **Data Science and Automation professional** with 10+ years of experience delivering AI-driven solutions across **Africa and the Middle East**. Currently pursuing my **MBA in Business Analytics, Finance & Consulting** at William & Mary's Raymond A. Mason School of Business.
+I'm a **Data Science and Automation professional** with 10+ years of experience delivering AI-driven solutions across **Africa and the Middle East**. Currently pursuing my **MBA in Business Analytics, Finance** at William & Mary's Raymond A. Mason School of Business.
 
 - 🎓 **Harvard Business School Online** — Credential of Readiness (CORe), *Pass with Honors*
 - 📍 Based in Norfolk, Virginia
