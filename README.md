@@ -45,15 +45,16 @@ I'm a **Data Science and Automation professional** with 10+ years of experience 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech | Impact |
-|---|---|---|---|
-| [🗺️ Geospatial Beverage Audit](./projects/geospatial-beverage-audit) | Geo-spatial sample selection for retail audit | Python, GeoPandas | Retained $600K Coca-Cola contract |
-| [🔄 Market Refresh Pipeline](./projects/market-refresh-pipeline) | E2E data simulation & SQL update system | Python, SQL | Delivered to $4M client base |
-| [⚡ Regional Customization Automator](./projects/regional-customization-automator) | Pandas automation for regional data requests | Python, Pandas | 90% TAT reduction; won back $300K |
-| [📈 Polynomial Sales Forecaster](./projects/polynomial-sales-forecaster) | Historical sales trend model | Python, scikit-learn | $1.5M project for Coca-Cola & Diageo |
-| [🔍 Google Places Web Scraper](./projects/google-places-scraper) | Lagos bakery/pastry shop discovery tool | Python, Google Places API | Won $300K bid in 2019 |
-| [📸 AI Store Sizing & OCR](./projects/ai-store-sizing-ocr) | AI-powered store measurement via Android camera | Python, OCR, CV | Innovated field data collection |
-| [⚗️ MATLAB Distillation Model](./projects/matlab-distillation-model) | Multivariate vacuum distillation optimization | MATLAB | University Design Project |
+| Project | Description | Tech |
+|---|---|---|
+| [🗺️ Geospatial Beverage Audit](./projects/geospatial-beverage-audit) | Geo-spatial sample selection for retail audit | Python, GeoPandas |
+| [🔄 Market Refresh Pipeline](./projects/market-refresh-pipeline) | E2E data simulation & SQL update system | Python, SQL |
+| [⚡ Regional Customization Automator](./projects/regional-customization-automator) | Pandas automation for regional data requests | Python, Pandas |
+| [📈 Polynomial Sales Forecaster](./projects/polynomial-sales-forecaster) | Historical sales trend model | Python, scikit-learn |
+| [🔍 Google Places Web Scraper](./projects/google-places-scraper) | Lagos bakery/pastry shop discovery tool | Python, Google Places API |
+| [📸 AI Store Sizing & OCR](./projects/ai-store-sizing-ocr) | AI-powered store measurement via Android camera | Python, OCR, CV |
+| [⚗️ MATLAB Distillation Model](./projects/matlab-distillation-model) | Multivariate vacuum distillation optimization | MATLAB |
+| [⚗️ Haversine Market Clusterting](./projects/matlab-distillation-model) | Open market clustering and boundary definition | QGIS, Python, Gemini Flash-2.5 |
 
 ---
 
