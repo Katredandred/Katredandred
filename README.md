@@ -39,7 +39,7 @@ I'm a **Data Science and Automation professional** with 10+ years of experience 
 - 🤖 AI & OCR Automation
 - 📊 Retail Intelligence & FMCG Analytics
 - 🔬 Hypothesis Testing (A/B)
-- 🏗️ Data Engineering & ETL Pipelines
+- 🏗️ Data Engineering & ETL Pipelines (Databricks)
 
 ---
 
@@ -54,7 +54,7 @@ I'm a **Data Science and Automation professional** with 10+ years of experience 
 | [🔍 Google Places Web Scraper](./projects/google-places-scraper) | Lagos bakery/pastry shop discovery tool | Python, Google Places API |
 | [📸 AI Store Sizing & OCR](./projects/ai-store-sizing-ocr) | AI-powered store measurement via Android camera | Python, OCR, CV |
 | [⚗️ MATLAB Distillation Model](./projects/matlab-distillation-model) | Multivariate vacuum distillation optimization | MATLAB |
-| [⚗️ Haversine Market Clusterting](./projects/matlab-distillation-model) | Open market clustering and boundary definition | QGIS, Python, Gemini Flash-2.5 |
+| [⚗️ Haversine Market Clustering](./projects/market-clustering-model) | Open market clustering and boundary definition | QGIS, Python, Gemini Flash-2.5 |
 
 ---
 
